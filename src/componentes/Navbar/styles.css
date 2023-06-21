@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #00334E;
+ }
+ .navbar div button {
+    background-color: #F6f5f5;
+    color: #ee6f57; }
+  .navbar img {
+    width: 85px;
+    box-sizing: border-box; }
+  .navbar li a {
+    color: #F6f5f5;
+    font-size: 1rem; }
+  .navbar li a:hover {
+    color: #ee6f57; }
