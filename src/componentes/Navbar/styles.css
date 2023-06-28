@@ -3,12 +3,19 @@
  }
  .navbar div button {
     background-color: #F6f5f5;
-    color: #ee6f57; }
+    color: rgb(238, 111, 87); }
+
   .navbar img {
-    width: 85px;
+    width: 50px;
+    height: 50px;
     box-sizing: border-box; }
   .navbar li a {
     color: #F6f5f5;
     font-size: 1rem; }
   .navbar li a:hover {
     color: #ee6f57; }
+  
+ .navbar-brand:hover {
+  color: #ee6f57;
+ } 
+ 
