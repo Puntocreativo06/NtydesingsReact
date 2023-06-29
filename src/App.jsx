@@ -5,9 +5,12 @@ import NavBar from './componentes/Navbar'
 function App() {
 
   return (    
-  <NavBar></NavBar>
+    <div>
+      <NavBar logo="LOGO"/>
+    </div>
   )
 }
 
 export default App
-  
+
+
