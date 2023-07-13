@@ -84,7 +84,6 @@ console.log({products});
 
     return (    
     <div>
-      <NavBar logo="img"/>
       <div className='contentContainer'>
         {showDetails ? (
           <>
