@@ -3,7 +3,7 @@ import Cart from "./NavBar-items/cart";
 import './styles.css';
 
 
-const NavBar = ({ logo}) => {
+const NavBar = ({logo}) => {
   return (
     <>
       <nav className="navbar navbar-expand-lg">
@@ -32,7 +32,7 @@ const NavBar = ({ logo}) => {
             </ul>
             <div className="d-grid gap-2 d-md-flex justify-content-md">
               <a className="navbar-brand d-flex" href="#">
-                <Cart />
+                <Cart/>
               </a>
             </div>
 

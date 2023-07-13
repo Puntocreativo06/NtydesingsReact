@@ -1,13 +1,16 @@
+
 import './App.css'
 import NavBar from './componentes/Navbar'
 
 
+
 function App() {
 
-  return (    
+    return (    
     <div>
-      <NavBar logo="LOGO"/>
+      <NavBar logo="img"/>
     </div>
+        
   )
 }
 
